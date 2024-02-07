@@ -8,7 +8,7 @@
 
 # Nome do projeto
 
-## Nome do grupo
+## Preserverance Games
 
 ## 👨‍🎓 Integrantes:
 - <a href="https://www.linkedin.com/in/otavio-vasconcelos-a11827208/">Otávio de Carvalho Vasconcelos</a>
