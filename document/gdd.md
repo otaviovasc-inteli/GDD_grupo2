@@ -67,31 +67,16 @@ Ao tornar o onboarding mais dinâmico e divertido, a solução busca não apenas
 *ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
 
 *Exemplo de tabela de requisitos*
-\# | Requisito  
+\# | Requisito
+--- | ---
 1 | Recompensas de bonificação por responder perguntas relacionadas à Unilever 
-
-
 2 | O controle será feito por WSAD
-
-
 3 | HUB de direcionamento para trilhas específicas de Onboarding da Unilever
-
-
 4 | Apresentação de informações públicas da empresa de forma gamificada
-
-
 5 | O jogo será em 2D de plataforma
-
-
 6 | Apresentação das mecânicas do Onboarding
-
-
 7 | Mostrar o dicionário da Unilever
-
-
 8 | O personagem perde uma vida toda vez que toca em um inimigo ou em algum projétil inimigo
-
-
 
 Aqui, adicionamos alguns pontos que acreditamos estar presentes em nosso projeto. Diante disso, enviamos esta tabela.
 
