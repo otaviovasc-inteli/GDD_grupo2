@@ -54,13 +54,17 @@ A solução proposta será utilizada como uma ferramenta interativa e dinâmica,
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
-A proposta de valor descreve aspectos essenciais para criação de valor para o projeto, traçando o objetivo de melhor entender a realidade do parceiro e entregar uma solução alinhada com o que a Unilever espera.
+*A proposta de valor descreve aspectos essenciais para criação de valor para o projeto, traçando o objetivo de melhor entender a realidade do parceiro e entregar uma solução alinhada com o que a Unilever espera.*
 
 
 <img src="../assets/vpc.png">
 
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
+
+
+*A matriz de risco demonstra os riscos observados no projeto pela equipe de desenvolvimento, representando ameaças e oportunidades, assim como impactos relevantes sobre o projeto. Em verde, estão indicados percalços que não necessitam de intervenção; em amarelo, pontos que apresentam média probabilidade e demandam certa atenção; e, em vermelho, estão destacados pontos críticos que devem ser evitados.*
+
 
 <img src="../assets/Matriz de Riscos4.png">
 
