@@ -60,7 +60,7 @@ A proposta de valor descreve aspectos essenciais para criação de valor para o 
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+<img src="../assets/imagem_2024-02-15_145217712.png">
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
