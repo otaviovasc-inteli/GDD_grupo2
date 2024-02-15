@@ -68,11 +68,16 @@ Ao tornar o onboarding mais dinâmico e divertido, a solução busca não apenas
 
 *Exemplo de tabela de requisitos*
 \# | Requisito  
---- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Recompensas de bonificação por responder perguntas relacionadas à Unilever 
+2 | O controle será feito por WSAD
+3 | HUB de direcionamento para trilhas específicas de Onboarding da Unilever
+4 | Apresentação de informações públicas da empresa de forma gamificada
+5 | O jogo será em 2D de plataforma
+6 | Apresentação das mecânicas do Onboarding
+7 | Mostrar o dicionário da Unilever
+8 | O personagem perde uma vida toda vez que toca em um inimigo ou em algum projétil inimigo
+
+Aqui, adicionamos alguns pontos que acreditamos estar presentes em nosso projeto. Diante disso, enviamos esta tabela.
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
