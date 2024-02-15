@@ -62,7 +62,7 @@ A proposta de valor descreve aspectos essenciais para criação de valor para o 
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-<img src="../assets/imagem_2024-02-15_145217712.png">
+<img src="../assets/Matriz de Risco2.png">
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
