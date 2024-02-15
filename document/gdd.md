@@ -51,7 +51,6 @@ A Unilever, embora seja uma empresa líder global, identificou áreas de oportun
 A solução proposta visa não apenas reformular, mas também gamificar o processo de onboarding. Ao incorporar elementos de gamificação, o objetivo é transformar a experiência de aprendizado em algo envolvente, interativo e significativo. O uso de um jogo personalizado permitirá que os novos colaboradores se envolvam de maneira mais ativa, promovendo a retenção de informações e uma compreensão mais profunda da cultura empresarial da Unilever. A gamificação do onboarding será estrategicamente desenvolvida para abordar pontos específicos de desafio identificados, como a grande gama de informações, a retenção e aplicação prática dos conceitos aprendidos. Elementos lúdicos, como missões, desafios e recompensas, serão incorporados para estimular o interesse no processo de gameplay e promover uma aprendizagem rápida e eficiente.
 Ao tornar o onboarding mais dinâmico e divertido, a solução busca não apenas corrigir a defasagem observada, mas também alinhar os novos colaboradores de maneira mais eficaz à cultura, valores e objetivos da Unilever. Espera-se que essa abordagem inovadora não apenas aumente a absorção de informações, mas também contribua para a satisfação e engajamento dos novos membros da equipe, proporcionando uma transição suave e positiva para o ambiente de trabalho da Unilever.
 
-
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
 <img src="../assets/vpc.png">
