@@ -43,6 +43,8 @@
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
 *A análise SWOT é relacionada ao parceiro Unilever, a tabela foi feita a fim de realizar uma avaliação ambiental no âmbito estratégico, levando em consideração o contexto da indústria, ocorrências e as características do ambiente interno e externo da Unilever.*
+
+
 <img src="../assets/SWOT-analise.png">
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
