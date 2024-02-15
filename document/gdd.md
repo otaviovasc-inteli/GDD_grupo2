@@ -52,6 +52,8 @@ A solução proposta será utilizada como uma ferramenta interativa e dinâmica,
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
+A proposta de valor descreve aspectos essenciais para criação de valor para o projeto, traçando o objetivo de melhor entender a realidade do parceiro e entregar uma solução alinhada com o que a Unilever espera.
+
 <img src="../assets/vpc.png">
 
 
