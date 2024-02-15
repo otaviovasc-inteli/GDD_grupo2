@@ -72,9 +72,7 @@ A solução proposta será utilizada como uma ferramenta interativa e dinâmica,
 
 *Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
 
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
+*Aqui, adicionamos alguns pontos que acreditamos que devem estar presentes em nosso projeto. Diante disso, enviamos esta tabela.*
 \# | Requisito
 --- | ---
 1 | Recompensas de bonificação por responder perguntas relacionadas à Unilever 
@@ -86,7 +84,6 @@ A solução proposta será utilizada como uma ferramenta interativa e dinâmica,
 7 | Mostrar o dicionário da Unilever
 8 | O personagem perde uma vida toda vez que toca em um inimigo ou em algum projétil inimigo
 
-Aqui, adicionamos alguns pontos que acreditamos estar presentes em nosso projeto. Diante disso, enviamos esta tabela.
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
